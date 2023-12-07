@@ -1,0 +1,36 @@
+Здравствуйте.
+
+1.
+Мне разрешили сделать график 14:00-17:00 в пятницу, поэтому планирую подойти в Coffee Way с 9:00. (Это будет единственное моё время для focused work на неделе вообще, т.к. сейчас вышел на новую линию и много осваиваю)
+
+2.
+При выполнении тестового задания планирую использовать примеры своего же кода и книгу PHP 7: Real World Application Development (https://www.amazon.com/PHP-Real-World-Application-Development-ebook/dp/B01M67UG9C)
+
+Код на github:
+https://github.com/natural-coding/ta-farm
+https://github.com/natural-coding/kommo-leads-copy
+https://github.com/natural-coding/ARM
++ ещё кое-что выложу.
+
+3.
+Цель использования кода: уточнить синтакс, использование tricks & tips. Например, работа с stdClass. Задачу на классы декомпозировать, думаю, смогу, as far as заюзать SOLID, некоторые design patterns и написать тестируемый код. Этого не забуду никогда!! :-)
+
+=== ПОЖЕЛАНИЯ К РАБОЧЕМУ МЕСТУ (Что установлю перед тестовым заданием)
+
+1. Самое главное(!), надеюсь, будет работать программа KeyTweak ( https://keytweak.en.softonic.com ):
+обмен клавиш 3 и 4 для easy ввода money sign! :-)
+
+2. Желателен FAR manager.
+
+3. Лёгкий text editor. Желательно Sublime, но Notepad++ OK also.
+
+4. Командная строка и интерпретатор PHP / доступ к Apache's DocumentRoot.
+
+5. Минут 30+ я точно буду осваиваться: открою книгу, исходники в каталоги положу, редактор попробую, скачаю то, что нужно и т.д.
+
+А так, сначала набросаю архитектуру системы, с классами, интерфейсам, м.б. abstract classes, а потом буду кодить. Надеюсь, этот подход will work.
+
+I can not wait for coding section!!
+
+Best regards,
+Alexander

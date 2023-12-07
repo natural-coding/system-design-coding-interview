@@ -1,0 +1,20 @@
+﻿Добрый день. 
+1. Смысла в автолоадере нет, там 1 файл. 
+2. Будет Денвер, Postman и np++
+
+
+
+17:19, 7 декабря 2023 г., john doe <5legko_mailbox@mail.ru>:
+Здравствуйте.
+ 
+1.
+Звонил спросить, будет ли composer на компе, чтобы можно было autoload files сгенерировать?
+ 
+2.
+Также интересно, какая environment будет:
+- mapped folder на Win в Linux и терминал
+- или PHP interpreter под Win и command line?
+ 
+Спасибо.
+ 
+ 
